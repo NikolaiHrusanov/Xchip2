@@ -15,21 +15,53 @@ namespace XStudentsChipApp
         public Form1()
         {
             InitializeComponent();
+            ucDownload2.Hide();
+            ucReading1.Hide();
+            ucUpdate1.Hide();
+            ucWrite1.Hide();
+
         }
 
-        private void button1_Click(object sender, EventArgs e)
+      
+        private void lbl_Project(object sender, EventArgs e)
         {
-
+            
         }
 
-        private void BTN_write_Click(object sender, EventArgs e)
+        private void BTN_Write_Form_Click(object sender, EventArgs e)
         {
-
+            ucWrite1.Show();
+            ucDownload2.Hide();
+            ucReading1.Hide();
+            ucUpdate1.Hide();
         }
 
-        private void BTN_read_Click(object sender, EventArgs e)
+        private void BTN_Change_Form_Click(object sender, EventArgs e)
         {
-           
+            ucUpdate1.Show();
+            ucWrite1.Hide();
+            ucDownload2.Hide();
+            ucReading1.Hide();
+            
         }
+
+        private void BTN_Install_Form_Click(object sender, EventArgs e)
+        {
+            ucDownload2.Show();
+            ucWrite1.Hide();
+            ucReading1.Hide();
+            ucUpdate1.Hide();
+        }
+
+        private void BTN_Read_Form_Click(object sender, EventArgs e)
+        {
+            ucReading1.Show();
+            ucWrite1.Hide();
+            ucDownload2.Hide();
+            ucUpdate1.Hide();
+        }
+
+       
+      
     }
 }
