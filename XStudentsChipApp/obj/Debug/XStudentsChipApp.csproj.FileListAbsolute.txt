@@ -66,3 +66,17 @@ C:\Users\User1\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.c
 C:\Users\User1\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.csproj.CoreCompileInputs.cache
 C:\Users\User1\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.exe
 C:\Users\User1\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.pdb
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\bin\Debug\XStudentsChipApp.exe.config
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\bin\Debug\XStudentsChipApp.exe
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\bin\Debug\XStudentsChipApp.pdb
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.csproj.AssemblyReference.cache
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.Form1.resources
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.Properties.Resources.resources
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.UCDownload.resources
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.UCReading.resources
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.UCUpdate.resources
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.UCWrite.resources
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.csproj.GenerateResource.cache
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.csproj.CoreCompileInputs.cache
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.exe
+C:\Users\Teacher\Source\Repos\Xchip2\XStudentsChipApp\obj\Debug\XStudentsChipApp.pdb

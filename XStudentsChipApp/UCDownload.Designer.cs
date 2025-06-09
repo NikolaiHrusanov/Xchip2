@@ -30,8 +30,8 @@
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(UCDownload));
             this.label1 = new System.Windows.Forms.Label();
-            this.BTN_downloadLocal = new System.Windows.Forms.Button();
-            this.BTN_downloadOnline = new System.Windows.Forms.Button();
+            this.BTN_downloadLocal_UCExport = new System.Windows.Forms.Button();
+            this.BTN_downloadOnline_UCExport = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // label1
@@ -44,46 +44,46 @@
             this.label1.TabIndex = 0;
             this.label1.Text = "Инсталиране";
             // 
-            // BTN_downloadLocal
+            // BTN_downloadLocal_UCExport
             // 
-            this.BTN_downloadLocal.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(164)))), ((int)(((byte)(164)))));
-            this.BTN_downloadLocal.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BTN_downloadLocal.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.BTN_downloadLocal.ForeColor = System.Drawing.Color.White;
-            this.BTN_downloadLocal.Image = ((System.Drawing.Image)(resources.GetObject("BTN_downloadLocal.Image")));
-            this.BTN_downloadLocal.Location = new System.Drawing.Point(105, 392);
-            this.BTN_downloadLocal.Name = "BTN_downloadLocal";
-            this.BTN_downloadLocal.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.BTN_downloadLocal.Size = new System.Drawing.Size(303, 52);
-            this.BTN_downloadLocal.TabIndex = 11;
-            this.BTN_downloadLocal.Text = " Локално инсталиране";
-            this.BTN_downloadLocal.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.BTN_downloadLocal.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.BTN_downloadLocal.UseVisualStyleBackColor = false;
+            this.BTN_downloadLocal_UCExport.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(164)))), ((int)(((byte)(164)))));
+            this.BTN_downloadLocal_UCExport.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BTN_downloadLocal_UCExport.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.BTN_downloadLocal_UCExport.ForeColor = System.Drawing.Color.White;
+            this.BTN_downloadLocal_UCExport.Image = ((System.Drawing.Image)(resources.GetObject("BTN_downloadLocal_UCExport.Image")));
+            this.BTN_downloadLocal_UCExport.Location = new System.Drawing.Point(105, 390);
+            this.BTN_downloadLocal_UCExport.Name = "BTN_downloadLocal_UCExport";
+            this.BTN_downloadLocal_UCExport.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.BTN_downloadLocal_UCExport.Size = new System.Drawing.Size(303, 60);
+            this.BTN_downloadLocal_UCExport.TabIndex = 11;
+            this.BTN_downloadLocal_UCExport.Text = " Локално инсталиране";
+            this.BTN_downloadLocal_UCExport.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.BTN_downloadLocal_UCExport.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.BTN_downloadLocal_UCExport.UseVisualStyleBackColor = false;
             // 
-            // BTN_downloadOnline
+            // BTN_downloadOnline_UCExport
             // 
-            this.BTN_downloadOnline.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(164)))), ((int)(((byte)(164)))));
-            this.BTN_downloadOnline.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.BTN_downloadOnline.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
-            this.BTN_downloadOnline.ForeColor = System.Drawing.Color.White;
-            this.BTN_downloadOnline.Image = ((System.Drawing.Image)(resources.GetObject("BTN_downloadOnline.Image")));
-            this.BTN_downloadOnline.Location = new System.Drawing.Point(448, 392);
-            this.BTN_downloadOnline.Name = "BTN_downloadOnline";
-            this.BTN_downloadOnline.RightToLeft = System.Windows.Forms.RightToLeft.No;
-            this.BTN_downloadOnline.Size = new System.Drawing.Size(300, 52);
-            this.BTN_downloadOnline.TabIndex = 12;
-            this.BTN_downloadOnline.Text = " Онлайн Инсталиране";
-            this.BTN_downloadOnline.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
-            this.BTN_downloadOnline.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
-            this.BTN_downloadOnline.UseVisualStyleBackColor = false;
+            this.BTN_downloadOnline_UCExport.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(164)))), ((int)(((byte)(164)))));
+            this.BTN_downloadOnline_UCExport.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.BTN_downloadOnline_UCExport.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(204)));
+            this.BTN_downloadOnline_UCExport.ForeColor = System.Drawing.Color.White;
+            this.BTN_downloadOnline_UCExport.Image = ((System.Drawing.Image)(resources.GetObject("BTN_downloadOnline_UCExport.Image")));
+            this.BTN_downloadOnline_UCExport.Location = new System.Drawing.Point(448, 390);
+            this.BTN_downloadOnline_UCExport.Name = "BTN_downloadOnline_UCExport";
+            this.BTN_downloadOnline_UCExport.RightToLeft = System.Windows.Forms.RightToLeft.No;
+            this.BTN_downloadOnline_UCExport.Size = new System.Drawing.Size(303, 60);
+            this.BTN_downloadOnline_UCExport.TabIndex = 12;
+            this.BTN_downloadOnline_UCExport.Text = " Онлайн Инсталиране";
+            this.BTN_downloadOnline_UCExport.TextAlign = System.Drawing.ContentAlignment.MiddleRight;
+            this.BTN_downloadOnline_UCExport.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageBeforeText;
+            this.BTN_downloadOnline_UCExport.UseVisualStyleBackColor = false;
             // 
             // UCDownload
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.Controls.Add(this.BTN_downloadOnline);
-            this.Controls.Add(this.BTN_downloadLocal);
+            this.Controls.Add(this.BTN_downloadOnline_UCExport);
+            this.Controls.Add(this.BTN_downloadLocal_UCExport);
             this.Controls.Add(this.label1);
             this.Name = "UCDownload";
             this.Size = new System.Drawing.Size(843, 553);
@@ -95,7 +95,7 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.Button BTN_downloadLocal;
-        private System.Windows.Forms.Button BTN_downloadOnline;
+        private System.Windows.Forms.Button BTN_downloadLocal_UCExport;
+        private System.Windows.Forms.Button BTN_downloadOnline_UCExport;
     }
 }

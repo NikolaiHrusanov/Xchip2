@@ -1,12 +1,103 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\User1\\source\\repos\\Xchip2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\source\\repos\\Xchip2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F89B0351-2DC6-4820-8BAA-BAD6E986AA09}|XStudentsChipApp\\XStudentsChipApp.csproj|c:\\users\\teacher\\source\\repos\\xchip2\\xstudentschipapp\\ucdownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F89B0351-2DC6-4820-8BAA-BAD6E986AA09}|XStudentsChipApp\\XStudentsChipApp.csproj|solutionrelative:xstudentschipapp\\ucdownload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89B0351-2DC6-4820-8BAA-BAD6E986AA09}|XStudentsChipApp\\XStudentsChipApp.csproj|c:\\users\\teacher\\source\\repos\\xchip2\\xstudentschipapp\\ucreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F89B0351-2DC6-4820-8BAA-BAD6E986AA09}|XStudentsChipApp\\XStudentsChipApp.csproj|solutionrelative:xstudentschipapp\\ucreading.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89B0351-2DC6-4820-8BAA-BAD6E986AA09}|XStudentsChipApp\\XStudentsChipApp.csproj|c:\\users\\teacher\\source\\repos\\xchip2\\xstudentschipapp\\ucupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F89B0351-2DC6-4820-8BAA-BAD6E986AA09}|XStudentsChipApp\\XStudentsChipApp.csproj|solutionrelative:xstudentschipapp\\ucupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89B0351-2DC6-4820-8BAA-BAD6E986AA09}|XStudentsChipApp\\XStudentsChipApp.csproj|c:\\users\\teacher\\source\\repos\\xchip2\\xstudentschipapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F89B0351-2DC6-4820-8BAA-BAD6E986AA09}|XStudentsChipApp\\XStudentsChipApp.csproj|solutionrelative:xstudentschipapp\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89B0351-2DC6-4820-8BAA-BAD6E986AA09}|XStudentsChipApp\\XStudentsChipApp.csproj|c:\\users\\teacher\\source\\repos\\xchip2\\xstudentschipapp\\ucwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F89B0351-2DC6-4820-8BAA-BAD6E986AA09}|XStudentsChipApp\\XStudentsChipApp.csproj|solutionrelative:xstudentschipapp\\ucwrite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
+        {
+          "DockedWidth": 97,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UCDownload.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\Xchip2\\XStudentsChipApp\\UCDownload.cs",
+              "RelativeDocumentMoniker": "XStudentsChipApp\\UCDownload.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\Xchip2\\XStudentsChipApp\\UCDownload.cs [Design]",
+              "RelativeToolTip": "XStudentsChipApp\\UCDownload.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:05:31.284Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UCReading.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\Xchip2\\XStudentsChipApp\\UCReading.cs",
+              "RelativeDocumentMoniker": "XStudentsChipApp\\UCReading.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\Xchip2\\XStudentsChipApp\\UCReading.cs [Design]",
+              "RelativeToolTip": "XStudentsChipApp\\UCReading.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:05:29.642Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UCUpdate.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\Xchip2\\XStudentsChipApp\\UCUpdate.cs",
+              "RelativeDocumentMoniker": "XStudentsChipApp\\UCUpdate.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\Xchip2\\XStudentsChipApp\\UCUpdate.cs [Design]",
+              "RelativeToolTip": "XStudentsChipApp\\UCUpdate.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:05:27.711Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\Xchip2\\XStudentsChipApp\\Form1.cs",
+              "RelativeDocumentMoniker": "XStudentsChipApp\\Form1.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\Xchip2\\XStudentsChipApp\\Form1.cs [Design]",
+              "RelativeToolTip": "XStudentsChipApp\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:01:06.445Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UCWrite.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Teacher\\source\\repos\\Xchip2\\XStudentsChipApp\\UCWrite.cs",
+              "RelativeDocumentMoniker": "XStudentsChipApp\\UCWrite.cs",
+              "ToolTip": "C:\\Users\\Teacher\\source\\repos\\Xchip2\\XStudentsChipApp\\UCWrite.cs [Design]",
+              "RelativeToolTip": "XStudentsChipApp\\UCWrite.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T07:32:38.421Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        },
         {
           "DockedWidth": 97,
           "SelectedChildIndex": -1,
